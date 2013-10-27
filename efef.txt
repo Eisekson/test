@@ -6,3 +6,4 @@ newdev test1.
 newdev test2.
 
 newdev2 test1.
+newdev3 test1.
