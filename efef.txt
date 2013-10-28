@@ -5,3 +5,5 @@ version 1
 master forward1.
 
 master2 forward2.
+
+master2 mergetest.
